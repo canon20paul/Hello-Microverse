@@ -34,11 +34,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Paul Malongo**
 
-- GitHub: [@githubhandle](https://github.com/canon20paul/)
+- GitHub: [@canon20paul](https://github.com/canon20paul/)
 - Twitter: [@twitterhandle](paul malongo)
-- LinkedIn: [LinkedIn](paulmalongo)
+- LinkedIn: [paulmalongo(paulmalongo)
 
 ## 🤝 Contributing
 
